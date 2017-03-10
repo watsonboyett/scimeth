@@ -1,0 +1,64 @@
+body {
+	background: grey;
+}
+
+
+* {
+	box-sizing: border-box;
+}
+
+
+h1 {
+	color: white;
+	border-bottom: 5px solid white;
+	font-size: 50px;
+	font-weight: normal;
+	font-family: "Impact";
+	text-align: center;
+	height: 70px;
+	width: 600px;
+	padding-top: 0px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+h2 {
+	color: white;
+	border-bottom: 2px solid white;
+	font-size: 20px;
+	font-weight: normal;
+	font-family: "Comic Sans MS";
+	text-align: center;
+	width: 200px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+div {
+	border: 2px solid white;
+	color: white;
+	text-align: center;
+	height: 100px;
+	width: 600px;
+	padding-top: 0px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 50px;
+}
+
+span {
+	float: left;
+	height: 100%;
+}
+
+.number-wrapper {
+	width: 20%;
+	border-right: 2px solid white;
+	font-size: 50px;
+}
+
+.content {
+	width: 80%;
+}
